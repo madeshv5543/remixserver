@@ -1,0 +1,28 @@
+{
+  "name": "remixadhi",
+  "version": "1.0.0",
+  "description": "contract build and deploy ui",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeshv5543/remixserver.git"
+  },
+  "keywords": [
+    "remix",
+    "adhichain"
+  ],
+  "author": "madesh v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeshv5543/remixserver/issues"
+  },
+  "homepage": "https://github.com/madeshv5543/remixserver#readme",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.5.0",
+    "express": "^4.16.4"
+  }
+}
